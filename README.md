@@ -9,6 +9,10 @@ I am very passionate about exploring the world of tech, contributing to this ama
 - 💻I'm currently pursuing my bachelor's in Computer Science at UTEP.
 - 💡UI/UX enthusiast
 -🧬 Bioinformatics Explorer
+- 📌Officer in two student-led organizations at my university, where I:
+   Lead workshops and coordinate events that promote technical growth and peer mentorship
+    Collaborate across teams to organize outreach initiatives and foster inclusive learning environments
+    Develop communication, planning, and leadership skills through hands-on experience in community-building roles
 
 
 ## Tech Stack
@@ -20,6 +24,11 @@ I am very passionate about exploring the world of tech, contributing to this ama
   - Genomic Data Analysis: aligning sequences, and extracting meaningful patterns.
   - Data Visialization: Using python, matplotlib to create graphics that feature significant data.
   - Statistical Exploration: Learning the R programming language to apply biostatistical methods and interpret biological significance.
+-🚀 Exploring Web Development
+  - React Mastery: Building dynamic, component-based UIs with React and Vite
+  - Backend Integration: Connecting apps to Supabase for real-time data flow and secure storage
+  - Styling Strategies: Experimenting with Tailwind CSS and CSS Modules to craft expressive, responsive designs
+  - UX/UI Design: Polishing user experience with animations, feedback messages, and intuitive navigation
 
  ## 🏆 Current Projects:
 
