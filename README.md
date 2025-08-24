@@ -1,4 +1,4 @@
-Hi, I'm Sofia! 👋
+# Hi, I'm Sofia! 👋
 
 I am a driven First Gen student at The University of Texas at El Paso seeking a Computer Science degree with a concentration in data analytics. Exciting!!
 I am very passionate about exploring the world of tech, contributing to this amazing community and keep on learning and expanding.  
